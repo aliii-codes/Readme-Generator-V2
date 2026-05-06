@@ -44,7 +44,7 @@ You get a **live preview**, **source view**, **copy to clipboard**, and **downlo
 ### 1. Clone & install
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/aliii-codes/Readme-Generator-V2.git
 cd Read-me-Generator
 npm install
 ```
